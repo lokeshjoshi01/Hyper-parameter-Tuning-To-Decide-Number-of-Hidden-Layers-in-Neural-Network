@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  5 13:30:38 18-12-2020
-
-@author: Lokesh Joshi
-"""
 
 # Artificial Neural Network
 
